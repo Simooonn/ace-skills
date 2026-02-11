@@ -1,5 +1,5 @@
 ---
-name: tech-research
+name: ace-tech-research
 description: |
   Deep technology research with evidence tracking, multi-source search, and citation verification.
   Trigger: "调研", "research", "深入了解", or technology comparison requests.
@@ -67,7 +67,7 @@ Establish the report requirements before any research:
 - Confirm length targets per section
 - Ask for any existing style guide or sample report
 
-**Format contract defaults (tech-research specific):**
+**Format contract defaults (ace-tech-research specific):**
 - Language: Chinese Simplified (中文简体)
 - Code snippets, CLI commands, API names, library names: keep English
 - Time focus: 2025-2026 (latest available)
